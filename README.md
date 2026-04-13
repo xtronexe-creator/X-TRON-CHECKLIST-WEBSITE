@@ -1,4 +1,4 @@
-# Xtron Discord Bot Dashboard
+# X-TRON CHECKLIST Discord Bot Dashboard
 
 A professional Discord bot management dashboard built with Next.js, Tailwind CSS, and TypeScript.
 
