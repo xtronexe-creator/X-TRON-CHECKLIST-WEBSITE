@@ -21,7 +21,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Bot className="w-8 h-8 text-brand-400" />
-            <span className="text-xl font-bold bg-gradient-brand bg-clip-text text-transparent">Xtron Bot</span>
+            <span className="text-xl font-bold bg-gradient-brand bg-clip-text text-transparent">X-TRON CHECKLIST</span>
           </div>
           <a href={DISCORD_LOGIN_URL} className="btn-primary text-sm">Login with Discord</a>
         </div>
@@ -32,7 +32,7 @@ export default function LandingPage() {
         <div className="max-w-4xl mx-auto text-center animate-fade-in">
           <div className="inline-flex items-center gap-2 bg-brand-600/20 border border-brand-700/30 rounded-full px-4 py-1.5 mb-6">
             <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse-soft" />
-            <span className="text-sm text-brand-300">Bot Online — Powered by Vortexa Cloud</span>
+            <span className="text-sm text-brand-300">Bot Online — Powered by XTRON</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="bg-gradient-brand bg-clip-text text-transparent">Manage Your Bot</span>
@@ -70,7 +70,7 @@ export default function LandingPage() {
       {/* Footer */}
       <footer className="border-t border-surface-border py-8 px-6">
         <div className="max-w-7xl mx-auto flex items-center justify-between text-sm text-gray-500">
-          <span>© 2026 Xtron Bot. All rights reserved.</span>
+          <span>© 2026 X-TRON CHECKLIST BOT. All rights reserved.</span>
           <span>Hosted on Vortexa Cloud</span>
         </div>
       </footer>
